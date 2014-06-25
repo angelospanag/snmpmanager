@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/logo_unipi.jpg</file>
+    </qresource>
+</RCC>
