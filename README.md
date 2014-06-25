@@ -32,7 +32,7 @@ make -f Makefile.linux
 ```
 The library should now be located in snmp++/lib
 
-##Building SNMP Manager
+###Building SNMP Manager
 You can use Qt Creator IDE or simply execute the following commands from the root folder of the project:
 
 ```
