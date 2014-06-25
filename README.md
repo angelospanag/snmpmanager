@@ -36,7 +36,7 @@ The library should now be located in snmp++/lib
 You can use Qt Creator IDE or simply execute the following commands from the root folder of the project:
 
 ```
-qnake snmpmanager.pro
+qmake snmpmanager.pro
 qmake
 make
 ```
